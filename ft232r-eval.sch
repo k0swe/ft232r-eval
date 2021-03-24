@@ -252,7 +252,7 @@ U 1 1 605F7C04
 P 7900 3000
 F 0 "J2" H 7980 2992 50 0000 L CNN
 F 1 "FTDI" H 7980 2901 50 0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left" H 7900 3000 50 0001 C CNN
+F 2 "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical" H 7900 3000 50 0001 C CNN
 F 3 "https://www.mouser.com/datasheet/2/1/ts0815-31700.pdf" H 7900 3000 50 0001 C CNN
 F 4 "0.8" H 7980 3092 50 0001 C CNN "Price"
 F 5 "517-974-01-06-RK" H 7980 3092 50 0001 C CNN "Vendor Part #"

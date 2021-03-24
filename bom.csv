@@ -7,7 +7,7 @@ D1,TX,Mouser,710-150060RS75000,0.15,https://www.mouser.com/datasheet/2/445/15006
 D2,RX,Mouser,710-150060RS75000,0.15,https://www.mouser.com/datasheet/2/445/150060RS75000-1715052.pdf,LED_SMD:LED_0603_1608Metric
 FB1,Ferrite_Bead,Mouser,81-BLM31PG121SN1L,0.3,https://www.mouser.com/datasheet/2/281/ENFA0006-1915741.pdf,Inductor_SMD:L_1206_3216Metric
 J1,USB_A,-,-,0,-,usb-a:USB-A_trace
-J2,FTDI,Mouser,517-974-01-06-RK,0.8,https://www.mouser.com/datasheet/2/1/ts0815-31700.pdf,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical_SMD_Pin1Left
+J2,FTDI,Mouser,517-974-01-06-RK,0.8,https://www.mouser.com/datasheet/2/1/ts0815-31700.pdf,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical
 J3,JST,Mouser,485-4392,0.35,https://www.mouser.com/datasheet/2/737/4389_C13924-001_CCP-W20-03-BK-SMT-R-A-1708610.pdf,Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical
 R1,10kΩ,Mouser,660-RK73B2ETTD103J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
 R2,270Ω,Mouser,660-RK73B2ETTD271J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
