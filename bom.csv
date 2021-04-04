@@ -1,16 +1,13 @@
-Refs,value,Vendor,Vendor Part #,Price,datasheet,footprint
-C1,100nF,Mouser,80-C1210C104K5RAUTO,0.37,https://www.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf,Capacitor_SMD:C_1210_3225Metric
-C2,10nF,Mouser,77-VJ1210Y103KXBAT,0.14,https://www.mouser.com/datasheet/2/427/vjcommercialseries-1764145.pdf,Capacitor_SMD:C_1210_3225Metric
-C3,4.7μF,Mouser,963-EMK325B7475MN-T,0.35,https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf,Capacitor_SMD:C_1210_3225Metric
-C4,100nF,Mouser,80-C1210C104K5RAUTO,0.37,https://www.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf,Capacitor_SMD:C_1210_3225Metric
-D1,TX,Mouser,710-150060RS75000,0.15,https://www.mouser.com/datasheet/2/445/150060RS75000-1715052.pdf,LED_SMD:LED_0603_1608Metric
-D2,RX,Mouser,710-150060RS75000,0.15,https://www.mouser.com/datasheet/2/445/150060RS75000-1715052.pdf,LED_SMD:LED_0603_1608Metric
-FB1,Ferrite_Bead,Mouser,81-BLM31PG121SN1L,0.3,https://www.mouser.com/datasheet/2/281/ENFA0006-1915741.pdf,Inductor_SMD:L_1206_3216Metric
-J1,USB_A,-,-,0,-,usb-a:USB-A_trace
-J2,FTDI,Mouser,517-974-01-06-RK,0.8,https://www.mouser.com/datasheet/2/1/ts0815-31700.pdf,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical
-J3,JST,Mouser,485-4390,0.35,https://www.mouser.com/datasheet/2/737/4389_C13924-001_CCP-W20-03-BK-SMT-R-A-1708610.pdf,Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical
-R1,10kΩ,Mouser,660-RK73B2ETTD103J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
-R2,270Ω,Mouser,660-RK73B2ETTD271J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
-R3,270Ω,Mouser,660-RK73B2ETTD271J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
-SW1,VIO_SEL,Mouser,611-JS102011SAQN,0.51,https://www.mouser.com/datasheet/2/60/js-1841892.pdf,Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN
-U1,FT232RL,Mouser,895-FT232RL,4.6,https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm
+Refs,quantity,value,Vendor,Vendor Part #,Price,datasheet,footprint
+"C1, C4",2,100nF,Mouser,80-C1210C104K5RAUTO,0.37,https://www.mouser.com/datasheet/2/212/KEM_C1023_X7R_AUTO_SMD-1093309.pdf,Capacitor_SMD:C_1210_3225Metric
+C2,1,10nF,Mouser,77-VJ1210Y103KXBAT,0.14,https://www.mouser.com/datasheet/2/427/vjcommercialseries-1764145.pdf,Capacitor_SMD:C_1210_3225Metric
+C3,1,4.7μF,Mouser,963-EMK325B7475MN-T,0.35,https://www.mouser.com/datasheet/2/396/mlcc02_e-1307760.pdf,Capacitor_SMD:C_1210_3225Metric
+"D1, D2",2,,Mouser,710-150060RS75000,0.15,https://www.mouser.com/datasheet/2/445/150060RS75000-1715052.pdf,LED_SMD:LED_0603_1608Metric
+FB1,1,Ferrite_Bead,Mouser,81-BLM31PG121SN1L,0.3,https://www.mouser.com/datasheet/2/281/ENFA0006-1915741.pdf,Inductor_SMD:L_1206_3216Metric
+J1,1,USB_A,-,-,0,-,usb-a:USB-A_trace
+J2,1,FTDI,Mouser,517-974-01-06-RK,0.8,https://www.mouser.com/datasheet/2/1/ts0815-31700.pdf,Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical
+J3,1,JST,Mouser,485-4392,0.35,https://www.mouser.com/datasheet/2/737/4389_C13924-001_CCP-W20-03-BK-SMT-R-A-1708610.pdf,Connector_JST:JST_PH_B4B-PH-SM4-TB_1x04-1MP_P2.00mm_Vertical
+R1,1,10kΩ,Mouser,660-RK73B2ETTD103J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
+"R2, R3",2,270Ω,Mouser,660-RK73B2ETTD271J,0.14,https://www.mouser.com/datasheet/2/219/RK73B-1825463.pdf,Resistor_SMD:R_1210_3225Metric
+SW1,1,VIO_SEL,Mouser,611-JS102011SAQN,0.51,https://www.mouser.com/datasheet/2/60/js-1841892.pdf,Button_Switch_SMD:SW_SPDT_CK-JS102011SAQN
+U1,1,FT232RL,Mouser,895-FT232RL,4.6,https://www.ftdichip.com/Support/Documents/DataSheets/ICs/DS_FT232R.pdf,Package_SO:SSOP-28_5.3x10.2mm_P0.65mm
