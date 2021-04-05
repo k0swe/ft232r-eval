@@ -5,7 +5,7 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "FT232R Evaluation Board"
-Date "2021-04-02"
+Date "2021-04-05"
 Rev "2"
 Comp "Chris Keller"
 Comment1 ""
