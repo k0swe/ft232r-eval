@@ -511,4 +511,15 @@ Connection ~ 5500 2150
 Connection ~ 4050 3300
 Connection ~ 8650 4550
 Connection ~ 6200 2150
+$Comp
+L Graphic:Logo_Open_Hardware_Small LOGO1
+U 1 1 6086E6E2
+P 10900 6850
+F 0 "LOGO1" H 10900 7125 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 10900 6625 50  0001 C CNN
+F 2 "Symbol:OSHW-Logo2_9.8x8mm_SilkScreen" H 10900 6850 50  0001 C CNN
+F 3 "~" H 10900 6850 50  0001 C CNN
+	1    10900 6850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
